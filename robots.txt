@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaoxiuqq.github.io/baoliaowangg/sitemap.xml
